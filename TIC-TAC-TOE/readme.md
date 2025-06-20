@@ -13,7 +13,7 @@ A simple yet interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 - 🧾 HTML5  
 - 🎨 CSS3  
-- ⚙️ JavaScript (Vanilla)
+- ⚙️ JavaScript 
 
 ## 🚀 Getting Started
 
